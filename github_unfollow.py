@@ -1,3 +1,7 @@
+"""
+by iqzmn©
+"""
+
 import requests
 import time
 import sys
