@@ -41,34 +41,4 @@ To use this script, you need a GitHub Personal Access Token:
 ⚠️ **Important:** The token is only shown once! Save it in a secure place.
 
 ## 🤖 Example Output
-
-🔑 Enter your GitHub Personal Access Token: ****************************************  
-
-🧪 Run in dry-run mode (show only, no actual unfollowing)? (y/n): n
-
-📡 Fetching data from GitHub API...
-
-📋 Loading following list...
-✅ Found following: 150
-
-📋 Loading followers list...
-✅ Found followers: 89
-
-⚠️ Found users who don't follow you back: 61
-
-📋 List of users to unfollow:
-  1. user1
-  2. user2
-  ...
-
-⚠️ WARNING: GitHub may temporarily rate-limit your account for mass actions!   
-❓ Are you sure you want to unfollow 61 users? (yes/no): yes
-
-🔄 Starting unfollow process...
-
-[1/61] ✅ Unfollowed: user1  
-[2/61] ✅ Unfollowed: user2  
-...
-
-✅ Done! Successfully unfollowed 61 out of 61 users  
-
+![example](CLI_example.jpg)
