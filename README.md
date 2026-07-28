@@ -32,9 +32,11 @@ To use this script, you need a GitHub Personal Access Token:
 🔹Click Generate new token (classic)   
 🔹Give it a name (e.g., unfollow-bot)  
 🔹Set an expiration (recommended: 30 or 90 days)  
-🔹Select the required scopes:
-  - ***user:follow*** (required) - to manage follows/unfollows  
-  - ***user:read*** (automatically added)  
+🔹Select the required scopes:  
+***user:***  
+    - ***read:user*** (automatically added)  
+    - ***user:follow*** (required) - to manage follows/unfollows  
+
 
 🔹Click **Generate token** and copy the token  
 
